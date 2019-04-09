@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c6aada3-3aac-4d66-b4e9-0d2fc3d781b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Memorandum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/znbwl.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/info.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/android_engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/framework/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051112.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051114.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051140.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051155.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051156.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051158.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051200.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051502.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051504.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051505.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051507.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051514.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051523.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051526.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051529.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051531.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051532.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051533.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051537.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051539.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051540.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051543.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051545.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051608.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051639.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051707.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051710.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051712.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051718.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051720.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051807.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051809.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051909.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051911.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051915.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051929.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051930.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051931.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051933.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903051936.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052021.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052035.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052037.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052038.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052039.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052044.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052048.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052049.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052050.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052053.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903052054.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060902.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060903.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060904.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060924.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060930.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060934.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060936.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060950.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060951.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060953.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903060955.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061006.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061010.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061012.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061050.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061053.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061056.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061103.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061104.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061105.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061106.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061107.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061114.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061118.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061439.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061440.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061442.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061443.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061445.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061446.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061447.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061451.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061456.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061509.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061514.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061527.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061534.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061546.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061548.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061551.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061552.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061554.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061555.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061557.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061603.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061606.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061617.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061620.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061621.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061934.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061937.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061955.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061956.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903061957.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062000.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062008.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062009.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062011.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062013.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903062014.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903071448.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903071450.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903071451.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/201903071455.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/addPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/archivepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/deletepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/modifyPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/registpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/searchpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pageobject/sortpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testreport/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/basetest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/testAll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/testAll2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_achive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_modify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_regist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testsuite/test_sort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="395098192">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="ini" value="2" />
+          <entry key="py" value="73" />
+          <entry key="report" value="1" />
+          <entry key="yaml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="Ini" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="73" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="12" />
+          <entry key="ini" value="17" />
+          <entry key="py" value="1998" />
+          <entry key="yaml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ini" value="17" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="1998" />
+          <entry key="YAML" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testsuite/testAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testsuite/testAll2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testsuite/start.py" />
+        <option value="$PROJECT_DIR$/logs.py" />
+        <option value="$PROJECT_DIR$/testsuite/testcase.py" />
+        <option value="$PROJECT_DIR$/testsuite/testAll.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/config/config.yaml" />
+        <option value="$PROJECT_DIR$/framework/android_engine.py" />
+        <option value="$PROJECT_DIR$/pageobject/login.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_regist.py" />
+        <option value="$PROJECT_DIR$/pageobject/modifyPage.py" />
+        <option value="$PROJECT_DIR$/pageobject/add1Page.py" />
+        <option value="$PROJECT_DIR$/pageobject/addPage.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_modify.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_sort.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_add.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_achive.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_delete.py" />
+        <option value="$PROJECT_DIR$/pageobject/searchpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/registpage.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_search.py" />
+        <option value="$PROJECT_DIR$/pageobject/deletepage.py" />
+        <option value="$PROJECT_DIR$/pageobject/basepage.py" />
+        <option value="$PROJECT_DIR$/pageobject/archivepage.py" />
+        <option value="$PROJECT_DIR$/pageobject/sortpage.py" />
+        <option value="$PROJECT_DIR$/pageobject/loginpage.py" />
+        <option value="$PROJECT_DIR$/framework/util.py" />
+        <option value="$PROJECT_DIR$/testsuite/test_login.py" />
+        <option value="$PROJECT_DIR$/testsuite/basetest.py" />
+        <option value="$PROJECT_DIR$/testsuite/testAll2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="104" />
+    <option name="width" value="998" />
+    <option name="height" value="544" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Memorandum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Memorandum" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\Memorandum\framework" />
+      <recent name="E:\workspace\Memorandum\config" />
+      <recent name="E:\workspace\Memorandum\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testAll2">
+    <configuration name="testAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Memorandum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuite/testAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testAll2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Memorandum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testsuite/testAll2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Memorandum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/framework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/framework/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_sort.TestModel6" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Memorandum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_sort.TestModel6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Memorandum" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testsuite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testsuite/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.util" />
+      <item itemvalue="Python tests.Unittests for test_sort.TestModel6" />
+      <item itemvalue="Python tests.Unittests in test_login.py" />
+      <item itemvalue="Python.testAll2" />
+      <item itemvalue="Python.testAll" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testAll2" />
+        <item itemvalue="Python.testAll" />
+        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python tests.Unittests for test_sort.TestModel6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6aada3-3aac-4d66-b4e9-0d2fc3d781b9" name="Default Changelist" comment="" />
+      <created>1551749568253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551749568253</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 35m 24s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 47m 03s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 48m 50s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 51m 55s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 53m 49s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 54m 11s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_sort_py - 2019.03.06 at 15h 56m 21s.xml">
+      <configuration name="Unittests in test_sort.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_sort_TestModel6 - 2019.03.06 at 15h 58m 23s.xml">
+      <configuration name="Unittests for test_sort.TestModel6" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.03.06 at 19h 35m 53s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2019.03.06 at 19h 37m 54s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20535715" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36824876" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/logs.py" />
+    <entry file="file://$PROJECT_DIR$/config/config.ini" />
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="373" selection-start-line="373" selection-end-line="373" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/start.py" />
+    <entry file="file://$PROJECT_DIR$/testsuite/test_modify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_regist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/addPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/modifyPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/searchpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/registpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/deletepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/report">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2793" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="39" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/basetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/sortpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_achive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/archivepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/android_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/test_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/testAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuite/testAll2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
